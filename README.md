@@ -29,4 +29,4 @@ https://drive.google.com/file/d/1HsmQmtwwLPXBfBgYKgvtgVrd-qrnCgNY/view
 https://drive.google.com/file/d/1HutuqlAPAHppUjrUZv1KRsA1yR3Znu86/view
 ----
 ## Data quality
-https://drive.google.com/file/d/1HutuqlAPAHppUjrUZv1KRsA1yR3Znu86/view
+[Download this](https://drive.google.com/file/d/1-rqu3LpbqRx2CrGdp0SSXD9Xkq1deRkf/view)
