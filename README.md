@@ -9,3 +9,20 @@ https://emc.udacity.com/c/deci-assessment/a/5905/cohorts/797a7d95a2a24a2695bfa28
 -----------------------
 ## Level 3 (Data):
 https://bit.ly/L3PS4Data
+
+
+--------
+## Feedbacks Data
+
+https://drive.google.com/drive/folders/1fRFCHmwwd1SEcAv08xjI39ExIjNWDJ-M
+-----
+## HTML Data
+
+https://drive.google.com/file/d/1HsmQmtwwLPXBfBgYKgvtgVrd-qrnCgNY/view
+-----
+## Sales.csv
+
+https://drive.google.com/file/d/1HutuqlAPAHppUjrUZv1KRsA1yR3Znu86/view
+----
+## Data quality
+https://drive.google.com/file/d/1HutuqlAPAHppUjrUZv1KRsA1yR3Znu86/view
