@@ -1,0 +1,9 @@
+Data Scientists:
+■ Understand Business Requirements:
+■ Discuss with the Business Consultant to understand the key factors influencing house prices.
+■ Perform Data Pipeline:
+	●Pre-processing: Clean and prepare the dataset for analysis.
+	●EDA: Perform exploratory data analysis to identify trends and patterns.
+	●Perform Feature Engineering
+	●Regression Model: Build and fit a regression model to predict house prices.
+	●Interpret Results: Analyze the coefficients and model performance (R-squared, RMSE, etc.).

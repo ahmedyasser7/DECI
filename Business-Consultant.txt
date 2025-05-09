@@ -1,0 +1,11 @@
+Business Consultant:
+■ Provide Business Intel:
+■ The new housing compound is close to job hubs where many companies are concentrated.
+■ Similar houses in the dataset include variables like square footage, number of bedrooms and bathrooms, presence of a garage, proximity to schools, and public transportation.
+■ The target market includes young families and professionals looking for housing near their workplaces.
+■ Market research indicates that houses with modern kitchens, energy-efficient features, and amenities like swimming pools and gyms are in higher demand.
+■ The company wants to set competitive prices to attract buyers quickly, but also maximize profit margins.
+■ Provide insights on competitors' pricing strategies in similar locations.
+■ The client is interested in understanding the impact of different amenities (e.g., swimming pools, gyms) on house prices.
+■ Challenge Analysis: Ask questions to ensure the analysis is thorough and logical.
+Guide Presentation: Help the team prepare a compelling presentation to stakeholders.
