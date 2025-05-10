@@ -1,4 +1,0 @@
-Project Manager:
-■ Manage Timeline: Create a project timeline and ensure all tasks are completed on time.
-■ Assign Tasks: Ensure each data scientist is fully utilized and working efficiently.
-■ Monitor Progress: Keep track of the team's progress and address any issues.
